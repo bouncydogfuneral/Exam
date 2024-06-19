@@ -12,3 +12,13 @@ To run back -
 
 1. Go to the back directory, then initialize - npm i (npm install).
 2. Then run it with the commands - npm run start
+
+
+admin login 
+email: john.doe@example.com
+pass: testPass
+
+
+user login
+email:jane.doe@example.com
+pass: testPass1
